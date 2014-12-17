@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="deep_orange_500" type="color">#FF5722</item>
+    <item name="deep_orange_800" type="color">#D84315</item>
+
+    <integer-array name="androidcolors">
+        <item>@color/deep_orange_500</item>
+        <item>@color/deep_orange_800</item>
+    </integer-array>
+</resources>
